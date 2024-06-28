@@ -43,9 +43,9 @@ section {
 }
 
 .top-banner {
-  background-image: url(images/header_bg.png);
+  background-image: url(images/developer.png);
   background-repeat: no-repeat;
-  background-position: right -50%;
-  width: 100%;
+  background-position: bottom right, left;
+
 
 }
