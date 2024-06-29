@@ -25,15 +25,15 @@ h2 {
 }
 
 .half-width {
-  width: 50%;
+  width: 48%;
   padding-left: 2%;
 
 
 }
 
 .half-width img {
-  width: 105%;
-
+  width: 50%;
+  float: right;
 }
 
 .link-button {
@@ -51,8 +51,6 @@ h2 {
   background-repeat: no-repeat;
   background-position: bottom right, left;
 
-
-
 }
 
 .dream-big {
@@ -62,7 +60,9 @@ h2 {
   background-size: 6%;
 }
 
-.exprience-area {}
+.dream-big .half-width img {
+  float: left;
+}
 
 .experience-item {
   width: 40%;
